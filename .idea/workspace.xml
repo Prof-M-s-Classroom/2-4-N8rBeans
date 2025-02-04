@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25a8240e-dda9-40c4-ac9a-783ea997d53b" name="Changes" comment="Submission folder and readme added">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Submissions/readme.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="25a8240e-dda9-40c4-ac9a-783ea997d53b" name="Changes" comment="Submission folder and readme added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,8 +38,8 @@
   </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/profmanjupriya/PyBootcampHW.git",
-    "accountId": "e295edf7-faf7-43e7-a9fc-6b26e3f43991"
+    "url": "https://github.com/Prof-M-s-Classroom/2-4-N8rBeans.git",
+    "accountId": "193660e9-9d01-4aa1-9c09-22aeebd4218c"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
